@@ -1,0 +1,21 @@
+.sidebar-title{
+    font-size: 150px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.sidebar{
+    width: 15%;
+    position: absolute;
+    height: 120%;
+    border-right: 2px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-container{
+    margin-bottom:2rem ;
+}
